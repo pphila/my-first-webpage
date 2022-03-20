@@ -1,6 +1,6 @@
 #My First Webpage#
 
-#### By Peter Philavanh and Ryan Braodsword
+#### By Peter Philavanh and Ryan Broadsword
 
 
 #### A HTML for learning how to create webpages
